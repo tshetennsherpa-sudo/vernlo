@@ -81,5 +81,5 @@ Also built [JobFit AI](https://github.com/tshetennsherpa-sudo/jobfit-ai) during 
 
 ## Contact
 **Tsheten Sherpa**
-- LinkedIn: [Tsheten Sherpa](https://www.linkedin.com/in/tshetensherpa)
+- LinkedIn: [Tsheten Sherpa]([https://www.linkedin.com/in/tshetensherpa](https://www.linkedin.com/in/tsheten-sherpa-79228b2a4))
 - GitHub: [tshetennsherpa-sudo](https://github.com/tshetennsherpa-sudo)
