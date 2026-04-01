@@ -1,6 +1,6 @@
 # Vernlo — Understand Any Document in Plain English
 
-> Built during Simplilearn/Purdue Hackathon — March 2026
+> Built during Hackathon — March 2026
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -13,6 +13,15 @@ Upload any confusing document and get plain English instantly.
 - 🤖 AI reads and analyzes it automatically using Claude API
 - 💡 Get: plain English summary, key points with severity flags, red flags, and a bottom line
 - 💬 Ask follow-up questions about your specific document
+
+## Screenshots
+
+### Upload Screen
+![Upload Screen](Screenshots/Upload.jpg)
+
+### Analysis Results
+![Results Screen](Screenshots/Results1.jpg)
+![Results Screen](Screenshots/Results2.jpg)
 
 ## Tech Stack
 - **Frontend:** React
